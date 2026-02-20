@@ -17,9 +17,7 @@ Para melhor experiência ao usar nosso Serviço, podemos solicitar que você for
 * Dados de documentação e identificação
 * Informações sobre solicitações de auxílio transporte
 
-As informações coletadas serão retidas por nós e utilizadas conforme descrito nesta política de privacidade.
-
-O aplicativo utiliza serviços de terceiros que podem coletar informações para identificação de usuários.
+As informações coletadas serão retidas por nós e utilizadas conforme descrito nesta política de privacidade. O aplicativo utiliza serviços de terceiros que podem coletar informações para identificação de usuários.
 
 ## Localização
 Nosso aplicativo utiliza informações de localização dos dispositivos móveis dos usuários. Utilizamos estas informações exclusivamente dentro do escopo necessário para os serviços de auxílio transporte. Sua localização será protegida e usada apenas para:
@@ -51,7 +49,11 @@ Informamos aos usuários que esses terceiros têm acesso às suas Informações 
 Valorizamos sua confiança ao nos fornecer suas Informações Pessoais e nos esforçamos para usar meios comercialmente aceitáveis para protegê-las. No entanto, lembre-se que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
 
 ## Privacidade de Menores
-Este Serviço é acessível a menores de 18 anos, especialmente para fins de solicitação de auxílio transporte estudantil. Recomendamos que o uso e o fornecimento de dados por menores sejam realizados sob a supervisão ou com o consentimento de seus pais ou responsáveis legais. Coletamos apenas os dados estritamente necessários para a prestação do serviço de transporte, conforme detalhado nesta política.
+Este Serviço é acessível a menores de 18 anos, especialmente para fins de solicitação de auxílio transporte estudantil. Recomendamos que o uso e o fornecimento de dados por menores sejam realizados sob a supervisão ou com o consentimento de seus pais ou responsáveis legais. Coletamos apenas os dados estritamente necessários para a prestação do serviço de transporte.
+
+## Exclusão de Dados
+O usuário tem o direito de solicitar a exclusão de sua conta e de todos os seus dados pessoais coletados pelo aplicativo a qualquer momento. 
+Para realizar a exclusão, o usuário deve enviar um e-mail para **devs.salinhaa10@gmail.com** com o assunto "Exclusão de Dados". Processaremos a solicitação e removeremos as informações de nossos servidores em um prazo razoável, respeitando as obrigações legais de retenção de dados quando aplicável.
 
 ## Alterações nesta Política de Privacidade
 Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, recomenda-se revisar esta página periodicamente para verificar possíveis alterações. Notificaremos você sobre qualquer alteração postando a nova Política de Privacidade nesta página. Estas mudanças são efetivas imediatamente após serem postadas.
@@ -60,4 +62,4 @@ Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, rec
 Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em entrar em contato conosco.
 
 **Informações de Contato:**
-* **Email:** [devs.salinhaa10@gmail.com]
+* **Email:** devs.salinhaa10@gmail.com
